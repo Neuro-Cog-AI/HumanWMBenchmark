@@ -1,4 +1,4 @@
-# Calculating Surprisal and Memory Update Predictors from CBR-RNN Variants
+## Calculating Surprisal and Memory Update Predictors from CBR-RNN Variants
 
 Example surprisal calculation:
 
